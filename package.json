@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/stats-base-dists-levy-entropy",
-  "version": "0.0.6",
+  "version": "0.0.0",
   "description": "Lévy distribution entropy.",
   "license": "Apache-2.0",
   "author": {
