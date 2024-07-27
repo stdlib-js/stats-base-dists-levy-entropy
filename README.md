@@ -69,7 +69,7 @@ where `γ` is the [Euler-Mascheroni constants][euler-mascheroni].
 ## Usage
 
 ```javascript
-import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-levy-entropy@deno/mod.js';
+import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-levy-entropy@v0.2.2-deno/mod.js';
 ```
 
 #### entropy( mu, c )
@@ -129,7 +129,7 @@ y = entropy( 0.0, -1.0 );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-levy-entropy@deno/mod.js';
+import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-levy-entropy@v0.2.2-deno/mod.js';
 
 var mu;
 var c;
