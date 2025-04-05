@@ -34,6 +34,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`14de0d5`](https://github.com/stdlib-js/stdlib/commit/14de0d5c6faeb5fa357cd6acc2d72ef62fc25146) - **chore:** clean-up _(by Athan Reines)_
 -   [`d623ed1`](https://github.com/stdlib-js/stdlib/commit/d623ed12dbc7560a7f9e1a9fb0d22f88f097952c) - **feat:** add C implementation for `stats/base/dists/levy/entropy` [(#4919)](https://github.com/stdlib-js/stdlib/pull/4919) _(by Nishchay Rajput, Philipp Burckhardt)_
 -   [`73050cb`](https://github.com/stdlib-js/stdlib/commit/73050cb11de45fd04b8e59c5df8ef30f891dba07) - **bench:** refactor random number generation in `stats/base/dists/levy` [(#6044)](https://github.com/stdlib-js/stdlib/pull/6044) _(by Hemant M Mehta, Athan Reines)_
 -   [`177f0a0`](https://github.com/stdlib-js/stdlib/commit/177f0a00909c097be05d47107a3e6ab05b865409) - **chore:** consistently use differential entropy for continuous distributions _(by Philipp Burckhardt)_
