@@ -1,5 +1,5 @@
-"use strict";var u=function(e,r){return function(){return r||e((r={exports:{}}).exports,r),r.exports}};var t=u(function(A,a){
-var i=require('@stdlib/math-base-assert-is-nan/dist'),n=require('@stdlib/math-base-special-ln/dist'),s=require('@stdlib/constants-float64-eulergamma/dist'),v=require('@stdlib/constants-float64-pi/dist'),E=1+3*s,q=16*v;function M(e,r){return i(e)||i(r)||r<=0?NaN:(E+n(r*r*q))/2}a.exports=M
-});var _=t();module.exports=_;
+"use strict";var n=function(e,r){return function(){try{return r||e((r={exports:{}}).exports,r),r.exports}catch(u){throw (r=0, u)}};};var t=n(function(I,a){
+var i=require('@stdlib/math-base-assert-is-nan/dist'),s=require('@stdlib/math-base-special-ln/dist'),v=require('@stdlib/constants-float64-eulergamma/dist'),E=require('@stdlib/constants-float64-pi/dist'),q=1+3*v,M=16*E;function _(e,r){return i(e)||i(r)||r<=0?NaN:(q+s(r*r*M))/2}a.exports=_
+});var o=t();module.exports=o;
 /** @license Apache-2.0 */
 //# sourceMappingURL=index.js.map

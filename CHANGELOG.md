@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-08)
+## Unreleased (2026-07-17)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`5447bd7`](https://github.com/stdlib-js/stdlib/commit/5447bd7b304d6f3dad93aa05ed567b934078c544) - **docs:** update descriptions [(#13511)](https://github.com/stdlib-js/stdlib/pull/13511) _(by Philipp Burckhardt)_
 -   [`47f803e`](https://github.com/stdlib-js/stdlib/commit/47f803efb7e6e84fb26a7ded647b9a398b29a226) - **docs:** fix scale parameter reference in `@stdlib/stats-base/dists/levy/entropy` [(#12258)](https://github.com/stdlib-js/stdlib/pull/12258) _(by Philipp Burckhardt)_
 -   [`0c1fea4`](https://github.com/stdlib-js/stdlib/commit/0c1fea42a94d1ec0d4ba8e9f29e411f0f3515041) - **bench:** update random value generation for `stats/base/dists/levy` [(#10449)](https://github.com/stdlib-js/stdlib/pull/10449) _(by Lokesh Ranjan, Philipp Burckhardt)_
 -   [`bdd38d9`](https://github.com/stdlib-js/stdlib/commit/bdd38d971f4c0a24d43aca632ca5098cc0b90332) - **bench:** refactor to use string interpolation in `stats/base/dists/levy` [(#10444)](https://github.com/stdlib-js/stdlib/pull/10444) _(by Vishal Gaikwad)_
